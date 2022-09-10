@@ -1,0 +1,169 @@
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.Form1.resources
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGroceryV1\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.Form1.resources
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+C:\Users\barac\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.Form1.resources
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.Form1.resources
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+C:\Users\USER\source\repos\gotoGro\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.Form1.resources
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.memberAddForm.resources
+C:\Users\jackv\Source\Repos\gotoGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AddItemForm.resources
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AddItemForm.resources
+D:\OneDrive - Swinburne University\Comp Sci\2022 Semester 2\SWE20001 Managing Software Projects\GoToGrocery\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.memberAddForm.resources
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.AssemblyReference.cache
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.GenerateResource.cache
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfoInputs.cache
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.AssemblyInfo.cs
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\refint\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.exe
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.deps.json
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.runtimeconfig.json
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\GoToGrocery.pdb
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\ConsoleTables.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.FormMain.resources
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.FormViewData.resources
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.csproj.CopyComplete
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.genruntimeconfig.cache
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\ref\GoToGrocery.dll
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.FormEditData.resources
+D:\OneDrive - Swinburne University\Placement\IntegraDev\GoToGrocery\obj\Debug\net6.0-windows\GoToGrocery.FormAddData.resources

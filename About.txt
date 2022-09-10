@@ -1,0 +1,51 @@
+Just a quick note on how the classes in the project function:
+
+The app was designed around the idea of a supermarket with customers who must be members in order to shop (similar to CostCo).
+Employees are able to use the app to gain information on item stock levels, member information, purchases relating to each member,
+popular items, comparing which days of the year are busiest. Alongside being able to add and edit any of the data within the database.
+
+The assumption was that, although it is possible to manually add transactions and transaction items to the database, that another program
+would ultimately be in charge of handling this.
+
+The app is capable of viewing, adding and editing data, and also has an option to save tables to csv format.
+
+The application allows users to search specific things within a database, the Select classes handle each of these statements:
+    - SelectMembers:
+        Shows all info of each member
+    - SelectItems
+        Shows all info of the items currently in stock and their quantities
+    - SelectTransactions
+        Shows all transactions recorded
+    - SelectTransactionItems
+        Shows all items for every transaction 
+    - Select FavouriteItems
+        Similar to TransactionItems above, however it aggregates all item purchase quantities and lists them in order of most to least purchased
+
+All the Select classes are children of SelectStatements, which defines a skeleton for the methods each class must contain.
+
+SelectStatements, UpdateStatements and InsertStatements are all children of a Statements parent class. Statements class handles the processing of each type of query,
+along with connecting to the database.
+
+The UpdateStatements and InsertStatements classes were designed to be flexible, and can create queries for any table.
+
+There is a ConnectionDetails class which contains all the information for connection to the database, Statements uses an instantiation of this to connect.
+
+The Checkbox classes act as getters for the column names in each tables of the database, they simply return strings corresponding to the columns. There is a 
+master class for this called CheckBoxesAll, this contains instantiations of each of the CheckBox classes (made things easier when getting the strings within the forms).
+
+UserInputHandler collects the strings returned from the CheckBox classes, and the user input from the form and places all the information into lists. These
+lists are used in the SelectStatements, UpdateStatements and InsertStatements classes to format the corresponding queries correctly.
+
+There are four forms:
+    - FormMain
+        First form to appear when running the program, gives access to the other three.
+    - FormViewData
+        Handles select statements
+    - FormAddData
+        Handles insert statements
+    - FormEditData
+        Handles update statements
+
+Multiple forms can be open at a time, this is particularly useful for allowing the user to see which data to change when completing update queries.
+
+There is a ConvertToCSV class which allows any table created in FormViewData to be converted and saved to csv format.
