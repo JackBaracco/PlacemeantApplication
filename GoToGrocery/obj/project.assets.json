@@ -1479,19 +1479,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\barac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Swinburne University\\Placement\\IntegraDev\\GoToGrocery\\GoToGrocery.csproj",
+      "projectUniqueName": "C:\\Users\\barac\\OneDrive - Swinburne University\\Placement\\IntegraDev\\PlacemeantApplication\\GoToGrocery\\GoToGrocery.csproj",
       "projectName": "GoToGrocery",
-      "projectPath": "D:\\OneDrive - Swinburne University\\Placement\\IntegraDev\\GoToGrocery\\GoToGrocery.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Swinburne University\\Placement\\IntegraDev\\GoToGrocery\\obj\\",
+      "projectPath": "C:\\Users\\barac\\OneDrive - Swinburne University\\Placement\\IntegraDev\\PlacemeantApplication\\GoToGrocery\\GoToGrocery.csproj",
+      "packagesPath": "C:\\Users\\barac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\barac\\OneDrive - Swinburne University\\Placement\\IntegraDev\\PlacemeantApplication\\GoToGrocery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\barac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1544,7 +1544,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
